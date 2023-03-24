@@ -1,12 +1,14 @@
 import { useState } from "react";
 
 import "./App.css";
-import Hellow from "./COMPONENTS/HELLOW/Hellow";
+import Cosmetics from "./COMPONENTS/COSMETICS/Cosmetics";
+import Shoes from "./SHOES/Shoes";
 
 function App() {
   return (
     <div className="App">
-      <Hellow></Hellow>
+      <Cosmetics></Cosmetics>
+      <Shoes></Shoes>
     </div>
   );
 }

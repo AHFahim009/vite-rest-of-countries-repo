@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Alta", "price": 100 },
+  { "id": 2, "name": "Lipstic is not permissible", "price": 200 },
+  { "id": 3, "name": "Ayliner", "price": 300 },
+  { "id": 4, "name": "Nose Ring", "price": 400 },
+  { "id": 5, "name": "Heir RIng", "price": 500 },
+  { "id": 6, "name": "perfume", "price": 600 }
+]
